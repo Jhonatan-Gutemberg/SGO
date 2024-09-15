@@ -1,10 +1,12 @@
 # Sistema de Gestão das Olimpíadas (SGO)
 
-#### Autores: Jhonatan Gutemberg Rosa Ferreira e Gabriel Henrique Miranda
+__ __
+#### Autores: Jhonatan Gutemberg Rosa Ferreira e Gabriel Henrique Miranda Rodrigues
 
-
+__ __
 
 ### Descrição do sistema:
+
  Com a chegada das Olimpíadas, um novo sistema de gestão é
 necessário para coordenar os diferentes aspectos do evento. Este sistema deve permitir o
 gerenciamento de competições, inscrições de atletas, alocação de locais para as provas,
@@ -26,3 +28,13 @@ determinando o atleta vencedor e os classificados em segundo e terceiro lugares.
 5. Relatórios de medalhas:
 • O sistema deve gerar relatórios de medalhas, mostrando o desempenho de cada
 país com base nas medalhas de ouro, prata e bronze conquistadas.
+
+__ __
+
+>### Diagrama de caso de uso
+
+
+<img width="500px" height="500px" src="img\Diagrama de caso de uso.png"/>
+
+__ __
+
