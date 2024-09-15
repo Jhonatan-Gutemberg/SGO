@@ -1,7 +1,8 @@
 # Sistema de Gestão das Olimpíadas (SGO)
 
 __ __
-#### Autores: Jhonatan Gutemberg Rosa Ferreira e Gabriel Henrique Miranda Rodrigues
+> [!NOTE]
+>  Autores: Jhonatan Gutemberg Rosa Ferreira e Gabriel Henrique Miranda Rodrigues
 
 __ __
 
