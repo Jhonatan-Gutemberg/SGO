@@ -39,3 +39,7 @@ __ __
 
 __ __
 
+>### Diagrama depacotes
+
+
+<img width="500px" height="500px" src="img\Diagrama de pacotes.png"/>
