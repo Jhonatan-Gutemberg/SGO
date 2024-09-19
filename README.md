@@ -35,7 +35,7 @@ __ __
 >### Diagrama de caso de uso
 
 
-<img width="500px" height="500px" src="img\Diagrama de caso de uso.png"/>
+<img width="741px" height="741px" src="img\Diagrama de caso de uso.png"/>
 
 __ __
 
@@ -43,7 +43,7 @@ __ __
 
 
 
-<img width="500px" height="500px" src="img\Diagrama de pacotes Otimizado.png"/>
+<img width="8760px" height="460px" src="img\Diagrama de pacotes Otimizado.png"/>
 
 >### Diagrama de Implantação e Componentes
 ![image](https://github.com/user-attachments/assets/51f37800-e748-4213-b3d9-ee5d8a10d49e)
