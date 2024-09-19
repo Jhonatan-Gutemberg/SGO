@@ -59,7 +59,7 @@
           <mxGeometry x="838.62" y="124" width="175.92" height="128" as="geometry" />
         </mxCell>
         <mxCell id="wdApZZ5YcVJwKXZR4mjj-27" value="Visao" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-780" y="-730" width="720" height="590" as="geometry" />
+          <mxGeometry x="-780" y="-640" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="wdApZZ5YcVJwKXZR4mjj-28" value="Controlle" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-1760" y="-510" width="800" height="600" as="geometry" />
@@ -67,7 +67,7 @@
         <mxCell id="wdApZZ5YcVJwKXZR4mjj-29" value="Services" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-850" y="-10" width="810" height="590" as="geometry" />
         </mxCell>
-        <mxCell id="wdApZZ5YcVJwKXZR4mjj-30" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Notificação de mudança de dados&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0;entryDx=720;entryDy=302;entryPerimeter=0;exitX=0.548;exitY=0.021;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="wdApZZ5YcVJwKXZR4mjj-1" target="wdApZZ5YcVJwKXZR4mjj-27" edge="1">
+        <mxCell id="wdApZZ5YcVJwKXZR4mjj-30" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Notificação de mudança de dados&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.992;entryY=0.611;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.548;exitY=0.021;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="wdApZZ5YcVJwKXZR4mjj-1" target="wdApZZ5YcVJwKXZR4mjj-27" edge="1">
           <mxGeometry x="0.3959" y="-12" width="160" relative="1" as="geometry">
             <mxPoint x="-10" y="-250" as="sourcePoint" />
             <mxPoint x="150" y="-250" as="targetPoint" />
@@ -77,7 +77,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wdApZZ5YcVJwKXZR4mjj-32" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Solicitação de atualização de dados&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.489;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.003;exitY=0.597;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="wdApZZ5YcVJwKXZR4mjj-27" target="wdApZZ5YcVJwKXZR4mjj-1" edge="1">
+        <mxCell id="wdApZZ5YcVJwKXZR4mjj-32" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Solicitação de atualização de dados&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.489;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=360;exitDy=266;exitPerimeter=0;" parent="1" source="wdApZZ5YcVJwKXZR4mjj-27" target="wdApZZ5YcVJwKXZR4mjj-1" edge="1">
           <mxGeometry x="-0.2968" y="12" width="160" relative="1" as="geometry">
             <mxPoint x="-10" y="-250" as="sourcePoint" />
             <mxPoint x="150" y="-250" as="targetPoint" />
@@ -97,7 +97,7 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wdApZZ5YcVJwKXZR4mjj-34" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Eventos&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.404;entryY=0.032;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=0;exitDy=158;exitPerimeter=0;" parent="1" source="wdApZZ5YcVJwKXZR4mjj-27" target="wdApZZ5YcVJwKXZR4mjj-28" edge="1">
+        <mxCell id="wdApZZ5YcVJwKXZR4mjj-34" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Eventos&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.404;entryY=0.032;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.001;exitY=0.198;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="wdApZZ5YcVJwKXZR4mjj-27" target="wdApZZ5YcVJwKXZR4mjj-28" edge="1">
           <mxGeometry x="-0.1469" y="-18" width="160" relative="1" as="geometry">
             <mxPoint x="150" y="-230" as="sourcePoint" />
             <mxPoint x="310" y="-230" as="targetPoint" />
@@ -169,9 +169,6 @@
         </mxCell>
         <mxCell id="BOHTvNCADYiuCbDTIoNl-9" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Competicao&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Service&lt;/b&gt;&lt;span style=&quot;background-color: initial; text-align: left;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Cadastrarequipe():void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ CancelarEquipe(id):void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ ConsultarEquipe(id): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ AdicionarRegras(id): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ RemoverRegras(id): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ EditarRegras(id):void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ CancelarCompeticao:void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+EditarCompeticao: void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-380" y="278" width="195.92" height="152" as="geometry" />
-        </mxCell>
-        <mxCell id="BOHTvNCADYiuCbDTIoNl-10" value="Mobile Flutter" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-380" y="-485" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="BOHTvNCADYiuCbDTIoNl-11" value="WEB HTML" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-730" y="-485" width="240" height="120" as="geometry" />
