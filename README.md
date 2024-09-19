@@ -43,7 +43,7 @@ __ __
 
 
 
-<img width="500px" height="500px" src="img\Diagrama de pacotes.png"/>
+<img width="500px" height="500px" src="img\Diagrama de pacotes Otimizado.png"/>
 
 >### Diagrama de Implantação e Componentes
 ![image](https://github.com/user-attachments/assets/51f37800-e748-4213-b3d9-ee5d8a10d49e)
